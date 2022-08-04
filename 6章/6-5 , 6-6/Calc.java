@@ -1,4 +1,5 @@
 package calcapp.main;
+//後の学習をしてからコンパイルする必要あり
 public class Calc{
   public static void main(String[] args){
     int a = 10; int b = 2;
