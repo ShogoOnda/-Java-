@@ -13,8 +13,6 @@ public class Hero{
   }
   
   public Hero() { //コンストラクタ②
-    this.hp = 100;
     this.name = "ダミー";
-    
   }
 }
