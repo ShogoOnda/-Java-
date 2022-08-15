@@ -1,0 +1,1 @@
+public class Weapon extends Item {//中身}
