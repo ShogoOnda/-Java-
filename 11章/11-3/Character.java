@@ -1,4 +1,4 @@
-public class Hero {
+public class Character {
   String name;
   int hp;
   //逃げる
