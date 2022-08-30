@@ -1,5 +1,5 @@
 public class Hero {
-  private int hp;
+  int hp;
   String name;
   public void setHero(String name) {
     if (name == null) {
